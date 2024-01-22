@@ -2,7 +2,7 @@
 Author: DDurrant
 
 
-![Dashboard](https://public.tableau.com/views/Learn-wb-12-24-2023Aviation/AviationData?:language=en-US&:display_count=n&:origin=viz_share_link)
+Dashboard: https://public.tableau.com/views/Learn-wb-12-24-2023Aviation/AviationData?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 # Overview 
